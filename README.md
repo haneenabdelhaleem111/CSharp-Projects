@@ -9,3 +9,5 @@ Sections:
 - [NumberGuessingGame] - (Beginner/NumberGuessingGame)
 
 # Intermediate :
+- [ContactBook] - (Intermediate/ContactBook)
+  
