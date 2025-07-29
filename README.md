@@ -1,7 +1,7 @@
 # CSharp-Projects
 From beginner to advanced
 
-# Sections
+Sections:
 
 # Beginner :
 ### using TryParse, out, loops 
